@@ -1,0 +1,9 @@
+enc_example::data:
+  software:
+    - 'bash'
+    - 'openssl'
+    - 'puppet'
+  versions:
+    bash:     "installed"
+    openssl:  "latest"
+    puppet:   "3.7.1-1.el6"
